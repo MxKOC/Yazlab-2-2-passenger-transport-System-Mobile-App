@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Proje2</string>
+    <string name="title_activity_adminmap1">adminmap1</string>
+    <string name="title_activity_adminmap2">adminmap2</string>
+    <string name="title_activity_kulmap1">kulmap1</string>
+    <string name="title_activity_kulmap2">kulmap2</string>
+    <string name="google_maps_key">AIzaSyAavntw9ffKQ-_9i_NInNFFzHgrKy8TYXA</string>
+</resources>
